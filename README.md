@@ -48,3 +48,4 @@ The server reads up to `WC_MAX_CUSTOMER_PAGES` pages of 100 customers each and t
 
 
 ##video link : https://drive.google.com/file/d/19AZ2ryN02-l1mUwEiW0HXzfgtCr1gkCY/view?usp=share_link
+## video link 2 : https://drive.google.com/file/d/1udbbyD8P9XzIQC-lW_MTnpDSvmX2WORB/view?usp=sharing
