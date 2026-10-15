@@ -45,3 +45,6 @@ The server reads up to `WC_MAX_CUSTOMER_PAGES` pages of 100 customers each and t
 ## Two-minute presentation outline
 
 “I chose CRM System Integration to bring customer profiles, orders, and follow-up into one workflow. Orbit can run in sample-data mode, or connect through a small Node server using a read-only WooCommerce key. The browser never sees the key. I can sync customer and recent-order data, filter accounts by segment, inspect a customer’s history, and prepare a follow-up for human review. The project keeps message delivery out of scope and explains what a production release still needs, including webhooks, persistence, and consent-aware delivery.”
+
+
+##video link : https://drive.google.com/file/d/19AZ2ryN02-l1mUwEiW0HXzfgtCr1gkCY/view?usp=share_link
